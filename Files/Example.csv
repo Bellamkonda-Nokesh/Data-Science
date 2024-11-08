@@ -1,0 +1,160 @@
+pclass,name,gender,Mrg,sibsp,parch,ticket,fare,cabin,embarked,boat,home.dest,ApplocantIncome,CoapplicantIncome
+1,"Allen, Miss. Elisabeth Walton",female,no,0,0,24160,211.3375,B5,Q,2,"St Louis, MO",38741.22355,7144.811167
+1,"Allison, Master. Hudson Trevor",male,yes,1,2,113781,151.55,C22 C26,S,11,"Montreal, PQ / Chesterville, ON",67283.51042,38871.31909
+1,"Anderson, Mr. Harry",male,no,0,0,19952,26.55,E12,Q,3,"New York, NY",71576.16711,23602.54152
+1,"Andrews, Miss. Kornelia Theodosia",female,,1,0,13502,77.9583,D7,S,10,"Hudson, NY",51764.7719,3229.962052
+1,"Appleton, Mrs. Edward Dale (Charlotte Lamson)",,,2,0,11769,51.4792,C101,S,D,"Bayside, Queens, NY",26373.99895,17506.50873
+1,"Astor, Mrs. John Jacob (Madeleine Talmadge Force)",female,,1,0,PC 17757,227.525,C62 C64,C,4,"New York, NY",29268.22072,14671.11607
+1,"Aubart, Mme. Leontine Pauline",female,,0,0,PC 17477,69.3,B35,C,9,"Paris, France",41610.78458,32549.22382
+1,"Barkworth, Mr. Algernon Henry Wilson",male,yes,0,0,27042,30,A23,S,B,"Hessle, Yorks",64440.89002,14515.02729
+1,"Baxter, Mrs. James (Helene DeLaudeniere Chaput)",female,no,0,1,PC 17558,247.5208,B58 B60,C,6,"Montreal, PQ",33140.71938,36902.09227
+1,"Beattie, Mr. Thomson",male,no,0,0,13050,75.2417,C6,C,A,"Winnipeg, MN",43677.08145,12453.05668
+1,"Beckwith, Mr. Richard Leonard",male,no,1,1,11751,52.5542,D35,S,5,"New York, NY",19792.63401,31473.80219
+1,"Beckwith, Mrs. Richard Leonard (Sallie Monypeny)",female,no,1,1,11751,52.5542,D35,S,5,"New York, NY",66216.66889,17909.72267
+1,"Behr, Mr. Karl Howell",,no,0,0,111369,30,C148,C,5,"New York, NY",30917.43156,10618.70768
+1,"Bishop, Mr. Dickinson H",male,yes,1,0,11967,91.0792,B49,C,7,"Dowagiac, MI",62300.71621,6095.605205
+1,"Bishop, Mrs. Dickinson H (Helen Walton)",female,no,1,0,11967,91.0792,B49,C,7,"Dowagiac, MI",9428.950388,28438.99799
+1,"Bjornstrom-Steffansson, Mr. Mauritz Hakan",male,no,0,0,110564,26.55,C52,S,D,"Stockholm, Sweden / Washington, DC",13615.28216,32461.7638
+1,"Blank, Mr. Henry",male,no,0,0,112277,31,A31,C,7,"Glen Ridge, NJ",77728.46746,10479.91867
+1,"Bonnell, Miss. Caroline",female,no,0,0,36928,164.8667,C7,S,8,"Youngstown, OH",51228.86476,24903.53439
+1,"Bonnell, Miss. Elizabeth",,no,0,0,113783,26.55,C103,S,8,"Birkdale, England Cleveland, Ohio",66677.68846,23917.19267
+1,"Bowerman, Miss. Elsie Edith",female,,0,1,113505,55,E33,S,6,"St Leonards-on-Sea, England Ohio",1444.819115,38657.19514
+1,"Brown, Mrs. James Joseph (Margaret Tobin)",female,,0,0,PC 17610,27.7208,B4,C,6,"Denver, CO",22929.24461,38314.53193
+1,"Brown, Mrs. John Murray (Caroline Lane Lamson)",female,,2,0,11769,51.4792,C101,S,D,"Belmont, MA",36381.71487,19749.8321
+1,"Bucknell, Mrs. William Robert (Emma Eliza Ward)",female,,0,0,11813,76.2917,D15,C,8,"Philadelphia, PA",23324.0349,20107.37529
+1,"Calderhead, Mr. Edward Pennington",,,0,0,PC 17476,26.2875,E24,S,5,"New York, NY",62893.33957,31987.80044
+1,"Cardeza, Mr. Thomas Drake Martinez",male,yes,0,1,PC 17755,512.3292,B51 B53 B55,C,3,"Austria-Hungary / Germantown, Philadelphia, PA",63253.176,17511.12294
+1,"Cardeza, Mrs. James Warburton Martinez (Charlotte Wardle Drake)",female,,0,1,PC 17755,512.3292,B51 B53 B55,C,3,"Germantown, Philadelphia, PA",64336.14596,32664.07256
+1,"Carter, Master. William Thornton II",male,no,1,2,113760,120,B96 B98,S,4,"Bryn Mawr, PA",40574.03912,36048.50564
+1,"Carter, Miss. Lucile Polk",female,no,1,2,113760,120,B96 B98,S,4,"Bryn Mawr, PA",27727.52058,35328.85278
+1,"Carter, Mr. William Ernest",,no,1,2,113760,120,B96 B98,S,C,"Bryn Mawr, PA",67646.35415,1392.371628
+1,"Carter, Mrs. William Ernest (Lucile Polk)",female,no,1,2,113760,120,B96 B98,S,4,"Bryn Mawr, PA",26684.8388,39062.50312
+1,"Cavendish, Mrs. Tyrell William (Julia Florence Siegel)",female,no,1,0,19877,78.85,C46,S,6,"Little Onn Hall, Staffs",64564.55216,14591.71701
+1,"Chaffee, Mrs. Herbert Fuller (Carrie Constance Toogood)",female,no,1,0,W.E.P. 5734,61.175,E31,S,4,"Amenia, ND",67737.53273,27999.27797
+1,"Chambers, Mr. Norman Campbell",,no,1,0,113806,53.1,E8,S,5,"New York, NY / Ithaca, NY",1054.016423,14041.10327
+1,"Chambers, Mrs. Norman Campbell (Bertha Griggs)",female,no,1,0,113806,53.1,E8,S,5,"New York, NY / Ithaca, NY",59197.3944,10709.47025
+1,"Cherry, Miss. Gladys",female,no,0,0,110152,86.5,B77,S,8,"London, England",21205.49914,37823.8682
+1,"Chevre, Mr. Paul Romaine",,no,0,0,PC 17594,29.7,A9,C,7,"Paris, France",27987.59185,2970.165586
+1,"Clark, Mrs. Walter Miller (Virginia McDowell)",,no,1,0,13508,136.7792,C89,C,4,"Los Angeles, CA",29905.49388,37285.41421
+1,"Compton, Miss. Sara Rebecca",,no,1,1,PC 17756,83.1583,E49,C,14,"Lakewood, NJ",50268.08213,250.9871197
+1,"Compton, Mrs. Alexander Taylor (Mary Eliza Ingersoll)",,no,0,2,PC 17756,83.1583,E45,C,14,"Lakewood, NJ",72976.35379,21814.33634
+1,"Cornell, Mrs. Robert Clifford (Malvina Helen Lamson)",,no,2,0,11770,25.7,C101,S,2,"New York, NY",31747.60601,36616.55344
+1,"Crosby, Miss. Harriet R",female,,0,2,WE/P 5735,71,B22,S,7,"Milwaukee, WI",51192.99795,20908.44433
+1,"Crosby, Mrs. Edward Gifford (Catherine Elizabeth Halstead)",female,yes,1,1,112901,26.55,B26,S,7,"Milwaukee, WI",73554.17975,23815.83021
+1,"Cumings, Mrs. John Bradley (Florence Briggs Thayer)",female,yes,1,0,PC 17599,71.2833,C85,C,4,"New York, NY",9073.591261,30597.42992
+1,"Daly, Mr. Peter Denis",male,yes,0,0,113055,26.55,E17,Q,5 9,"Lima, Peru",44555.19841,13970.15106
+1,"Davidson, Mrs. Thornton (Orian Hays)",female,yes,1,2,F.C. 12750,52,B71,S,3,"Montreal, PQ",58385.32117,14235.81151
+1,"Dick, Mr. Albert Adrian",male,yes,1,0,17474,57,B20,S,3,"Calgary, AB",11783.97913,14908.58848
+1,"Dick, Mrs. Albert Adrian (Vera Gillespie)",female,yes,1,0,17474,57,B20,S,3,"Calgary, AB",29686.32521,28812.6947
+1,"Dodge, Dr. Washington",,yes,1,1,33638,81.8583,A34,S,13,"San Francisco, CA",24276.22725,25053.69052
+1,"Dodge, Master. Washington",male,no,0,2,33638,81.8583,A34,S,5,"San Francisco, CA",63946.55605,23595.10164
+1,"Dodge, Mrs. Washington (Ruth Vidaver)",female,yes,1,1,33638,81.8583,A34,S,5,"San Francisco, CA",48447.03149,7481.962388
+1,"Douglas, Mrs. Frederick Charles (Mary Helene Baxter)",female,yes,1,1,PC 17558,247.5208,B58 B60,C,6,"Montreal, PQ",65895.69482,26115.37502
+1,"Douglas, Mrs. Walter Donald (Mahala Dutton)",female,yes,1,0,PC 17761,106.425,C86,C,2,"Deephaven, MN / Cedar Rapids, IA",21018.52087,27492.33112
+1,"Duff Gordon, Lady. (Lucille Christiana Sutherland) ('Mrs Morgan')",female,yes,1,0,11755,39.6,A16,C,1,London / Paris,33161.43365,8457.323477
+1,"Duff Gordon, Sir. Cosmo Edmund ('Mr Morgan')",male,yes,1,0,PC 17485,56.9292,A20,C,1,London / Paris,38204.77234,6612.069586
+1,"Earnshaw, Mrs. Boulton (Olive Potter)",female,yes,0,1,11767,83.1583,C54,C,7,"Mt Airy, Philadelphia, PA",46260.19899,12954.38257
+1,"Endres, Miss. Caroline Louise",female,,0,0,PC 17757,227.525,C45,C,4,"New York, NY",26462.44317,7997.041307
+1,"Eustis, Miss. Elizabeth Mussey",female,,1,0,36947,78.2667,D20,C,4,"Brookline, MA",3874.4627,17145.37139
+1,"Flynn, Mr. John Irwin ('Irving')",male,no,0,0,PC 17474,26.3875,E25,S,5,"Brooklyn, NY",33789.83244,22473.8175
+1,"Fortune, Miss. Alice Elizabeth",female,,3,2,19950,263,C23 C25 C27,S,10,"Winnipeg, MB",33725.12738,25234.55876
+1,"Fortune, Miss. Ethel Flora",,,3,2,19950,263,C23 C25 C27,S,10,"Winnipeg, MB",59283.5925,29054.00146
+1,"Fortune, Miss. Mabel Helen",,,3,2,19950,263,C23 C25 C27,S,10,"Winnipeg, MB",44666.18324,23066.08038
+1,"Fortune, Mrs. Mark (Mary McDougald)",,yes,1,4,19950,263,C23 C25 C27,S,10,"Winnipeg, MB",5995.327147,22425.21201
+1,"Frauenthal, Mr. Isaac Gerald",,yes,1,0,17765,27.7208,D40,C,5,"New York, NY",40050.71586,959.968515
+1,"Frolicher, Miss. Hedwig Margaritha",female,yes,0,2,13568,49.5,B39,C,5,"Zurich, Switzerland",73567.0343,11541.35554
+1,"Frolicher-Stehli, Mr. Maxmillian",male,no,1,1,13567,79.2,B41,C,5,"Zurich, Switzerland",8958.414899,32060.12569
+1,"Frolicher-Stehli, Mrs. Maxmillian (Margaretha Emerentia Stehli)",female,yes,1,1,13567,79.2,B41,C,5,"Zurich, Switzerland",31642.65781,4124.605859
+1,"Futrelle, Mrs. Jacques Heath (Lily May Peel)",female,yes,1,0,113803,53.1,C123,S,D,"Scituate, MA",16625.8026,11310.88114
+1,"Goldenberg, Mr. Samuel L",male,yes,1,0,17453,89.1042,C92,C,5,"Paris, France / New York, NY",60152.69181,8120.097234
+1,"Gracie, Col. Archibald IV",male,yes,0,0,113780,28.5,C51,C,B,"Washington, DC",23403.58241,37900.74787
+1,"Graham, Miss. Margaret Edith",female,yes,0,0,112053,30,B42,Q,3,"Greenwich, CT",72233.94313,9065.656243
+1,"Graham, Mrs. William Thompson (Edith Junkins)",female,yes,0,1,PC 17582,153.4625,C125,S,3,"Greenwich, CT",10366.13888,3468.033896
+1,"Greenfield, Mr. William Bertram",male,yes,0,1,PC 17759,63.3583,D10 D12,C,7,"New York, NY",20137.53156,2880.707742
+1,"Greenfield, Mrs. Leo David (Blanche Strouse)",,yes,0,1,PC 17759,63.3583,D10 D12,C,7,"New York, NY",35218.96781,28988.97209
+1,"Harder, Mr. George Achilles",,,1,0,11765,55.4417,E50,C,5,"Brooklyn, NY",31568.92412,28733.17668
+1,"Harder, Mrs. George Achilles (Dorothy Annan)",female,,1,0,11765,55.4417,E50,C,5,"Brooklyn, NY",34134.96335,8653.695357
+1,"Harper, Mr. Henry Sleeper",,,1,0,PC 17572,76.7292,D33,C,3,"New York, NY",38710.43999,3111.059288
+1,"Harper, Mrs. Henry Sleeper (Myna Haxtun)",female,,1,0,PC 17572,76.7292,D33,C,3,"New York, NY",60913.90617,14097.54466
+1,"Harris, Mrs. Henry Birkhardt (Irene Wallach)",,,1,0,36973,83.475,C83,S,D,"New York, NY",18287.48224,4717.202124
+1,"Hays, Miss. Margaret Bechstein",female,,0,0,11767,83.1583,C54,C,7,"New York, NY",21155.713,4214.820956
+1,"Hays, Mrs. Charles Melville (Clara Jennings Gregg)",female,,1,1,12749,93.5,B69,Q,3,"Montreal, PQ",64822.10991,37378.47237
+1,"Hippach, Miss. Jean Gertrude",female,,0,1,111361,57.9792,B18,C,4,"Chicago, IL",35269.3475,29327.96854
+1,"Hippach, Mrs. Louis Albert (Ida Sophia Fischer)",female,,0,1,111361,57.9792,B18,Q,4,"Chicago, IL",75084.33318,14723.70228
+1,"Hogeboom, Mrs. John C (Anna Andrews)",female,yes,1,0,13502,77.9583,D11,Q,10,"Hudson, NY",62382.84826,11457.42222
+1,"Hoyt, Mr. Frederick Maxfield",,yes,1,0,19943,90,C93,Q,D,"New York, NY /  Stamford CT",50640.16065,7481.85129
+1,"Hoyt, Mrs. Frederick Maxfield (Jane Anne Forby)",female,yes,1,0,19943,90,C93,Q,D,"New York, NY /  Stamford CT",4389.858946,18916.44632
+1,"Ismay, Mr. Joseph Bruce",male,yes,0,0,112058,0,B52 B54 B56,Q,C,Liverpool,59316.76793,24276.53838
+1,"Kimball, Mr. Edwin Nelson Jr",male,,1,0,11753,52.5542,D19,Q,5,"Boston, MA",46450.91591,1500.945982
+1,"Kimball, Mrs. Edwin Nelson Jr (Gertrude Parsons)",female,yes,1,0,11753,52.5542,D19,S,5,"Boston, MA",69684.93098,24477.93652
+1,"Leader, Dr. Alice (Farnham)",female,yes,0,0,17465,25.9292,D17,S,8,"New York, NY",1752.054634,24410.07388
+1,"Lines, Miss. Mary Conover",female,yes,0,1,PC 17592,39.4,D28,S,9,"Paris, France",17478.10946,1346.038151
+1,"Lines, Mrs. Ernest H (Elizabeth Lindsey James)",female,yes,0,1,PC 17592,39.4,D28,S,9,"Paris, France",58158.70819,19370.02006
+1,"Longley, Miss. Gretchen Fiske",female,yes,0,0,13502,77.9583,D9,S,10,"Hudson, NY",66343.82112,35089.94161
+1,"Madill, Miss. Georgette Alexandra",female,yes,0,1,24160,211.3375,B5,S,2,"St Louis, MO",14046.22574,21719.54516
+1,"Marvin, Mrs. Daniel Warner (Mary Graham Carmichael Farquarson)",female,yes,1,0,113773,53.1,D30,S,10,"New York, NY",343.7464786,35834.54448
+1,"Mayne, Mlle. Berthe Antonine ('Mrs de Villiers')",,yes,0,0,PC 17482,49.5042,C90,C,6,"Belgium  Montreal, PQ",34879.43073,25615.70654
+1,"McGough, Mr. James Robert",,yes,0,0,PC 17473,26.2875,E25,Q,7,"Philadelphia, PA",48089.40795,7470.834228
+1,"Minahan, Miss. Daisy E",,yes,1,0,19928,90,C78,Q,14,"Green Bay, WI",31011.96212,29029.1609
+1,"Minahan, Mrs. William Edward (Lillian E Thorpe)",,yes,1,0,19928,90,C78,Q,14,"Fond du Lac, WI",48500.4951,39843.90257
+1,"Mock, Mr. Philipp Edmund",male,yes,1,0,13236,57.75,C78,Q,11,"New York, NY",66895.71313,4106.322016
+1,"Newell, Miss. Madeleine",female,yes,1,0,35273,113.275,D36,Q,6,"Lexington, MA",5903.868667,25070.11392
+1,"Newell, Miss. Marjorie",female,,1,0,35273,113.275,D36,Q,6,"Lexington, MA",74930.99545,38575.00476
+1,"Newsom, Miss. Helen Monypeny",female,,0,2,11752,26.2833,D47,Q,5,"New York, NY",33498.06407,31793.09792
+1,"Ostby, Miss. Helene Ragnhild",female,,0,1,113509,61.9792,B36,Q,5,"Providence, RI",22742.98652,2020.150571
+1,"Pears, Mrs. Thomas (Edith Wearne)",,,1,0,113776,66.6,C2,S,8,"Isleworth, England",49309.38315,35205.09896
+1,"Penasco y Castellana, Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo)",,,1,0,PC 17758,108.9,C65,Q,8,"Madrid, Spain",10321.07112,28582.50841
+1,"Peuchen, Major. Arthur Godfrey",,,0,0,113786,30.5,C104,S,6,"Toronto, ON",49919.8004,32524.21328
+1,"Potter, Mrs. Thomas Jr (Lily Alexenia Wilson)",,,0,1,11767,83.1583,C50,C,7,"Mt Airy, Philadelphia, PA",21517.10526,31581.82381
+1,"Robert, Mrs. Edward Scott (Elisabeth Walton McMillan)",,,0,1,24160,211.3375,B3,S,2,"St Louis, MO",41407.88364,27994.54288
+1,"Rosenbaum, Miss. Edith Louise",female,no,0,0,PC 17613,27.7208,A11,C,11,"Paris, France",17665.88732,38989.57528
+1,"Rothes, the Countess. of (Lucy Noel Martha Dyer-Edwards)",female,no,0,0,110152,86.5,B77,S,8,"London  Vancouver, BC",226.4796814,1759.225389
+1,"Ryerson, Master. John Borie",male,,2,2,PC 17608,262.375,B57 B59 B63 B66,C,4,"Haverford, PA / Cooperstown, NY",78723.95741,21017.71871
+1,"Ryerson, Miss. Emily Borie",female,no,2,2,PC 17608,262.375,B57 B59 B63 B66,C,4,"Haverford, PA / Cooperstown, NY",66537.957,17298.6019
+1,"Ryerson, Miss. Susan Parker 'Suzette'",female,no,2,2,PC 17608,262.375,B57 B59 B63 B66,C,4,"Haverford, PA / Cooperstown, NY",22235.64493,10787.00397
+1,"Ryerson, Mrs. Arthur Larned (Emily Maria Borie)",female,no,1,3,PC 17608,262.375,B57 B59 B63 B66,C,4,"Haverford, PA / Cooperstown, NY",25550.52157,12249.14831
+1,"Schabert, Mrs. Paul (Emma Mock)",female,no,1,0,13236,57.75,C28,C,11,"New York, NY",24025.73384,17951.10564
+1,"Shutes, Miss. Elizabeth W",female,no,0,0,PC 17582,153.4625,C125,S,3,"New York, NY / Greenwich CT",13769.903,4907.630583
+1,"Silverthorne, Mr. Spencer Victor",male,yes,0,0,PC 17475,26.2875,E24,S,5,"St Louis, MO",21212.85053,25158.62585
+1,"Silvey, Mrs. William Baird (Alice Munger)",female,no,1,0,13507,55.9,E44,Q,11,"Duluth, MN",46682.40797,22640.56641
+1,"Simonius-Blumer, Col. Oberst Alfons",male,,0,0,13213,35.5,A26,C,3,"Basel, Switzerland",50094.07494,35945.70512
+1,"Sloper, Mr. William Thompson",,no,0,0,113788,35.5,A6,Q,7,"New Britain, CT",64744.9745,7272.921708
+1,"Smith, Mrs. Lucien Philip (Mary Eloise Hughes)",female,no,1,0,13695,60,C31,S,6,"Huntington, WV",42904.64856,30872.76907
+1,"Snyder, Mr. John Pillsbury",male,yes,1,0,21228,82.2667,B45,S,7,"Minneapolis, MN",16338.05553,31368.82072
+1,"Snyder, Mrs. John Pillsbury (Nelle Stevenson)",female,no,1,0,21228,82.2667,B45,Q,7,"Minneapolis, MN",63941.15644,39835.1132
+1,"Spedden, Master. Robert Douglas",male,yes,0,2,16966,134.5,E34,C,3,"Tuxedo Park, NY",17539.48857,32821.74687
+1,"Spedden, Mr. Frederic Oakley",male,,1,1,16966,134.5,E34,Q,3,"Tuxedo Park, NY",33039.78992,16153.13697
+1,"Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone)",female,no,1,1,16966,134.5,E34,Q,3,"Tuxedo Park, NY",51846.18918,24142.53185
+1,"Stahelin-Maeglin, Dr. Max",male,yes,0,0,13214,30.5,B50,Q,3,"Basel, Switzerland",65603.66862,25784.09444
+1,"Stengel, Mr. Charles Emil Henry",male,yes,1,0,11778,55.4417,C116,Q,1,"Newark, NJ",4593.223366,21855.80161
+1,"Stengel, Mrs. Charles Emil Henry (Annie May Morris)",female,no,1,0,11778,55.4417,C116,Q,5,"Newark, NJ",73199.5295,36647.80495
+1,"Stephenson, Mrs. Walter Bertram (Martha Eustis)",female,no,1,0,36947,78.2667,D20,C,4,"Haverford, PA",40116.67487,27270.9994
+1,"Swift, Mrs. Frederick Joel (Margaret Welles Barron)",female,no,0,0,17466,25.9292,D17,Q,8,"Brooklyn, NY",11046.65282,6552.975297
+1,"Taussig, Miss. Ruth",female,no,0,2,110413,79.65,E68,Q,8,"New York, NY",40579.93498,13408.80065
+1,"Taussig, Mrs. Emil (Tillie Mandelbaum)",female,no,1,1,110413,79.65,E67,S,8,"New York, NY",58510.47053,5478.146674
+1,"Taylor, Mr. Elmer Zebley",,no,1,0,19996,52,C126,S,5 7,"London /  East Orange, NJ",68413.01501,35965.70077
+1,"Thayer, Mr. John Borland Jr",male,,0,2,17421,110.8833,C70,Q,B,"Haverford, PA",11709.39773,21938.89176
+1,"Thayer, Mrs. John Borland (Marian Longstreth Morris)",female,no,1,1,17421,110.8833,C68,Q,4,"Haverford, PA",74659.13911,20396.13213
+1,"Tucker, Mr. Gilbert Milligan Jr",male,yes,0,0,2543,28.5375,C53,Q,7,"Albany, NY",62226.40914,30337.66447
+1,"Warren, Mrs. Frank Manley (Anna Sophia Atkinson)",female,no,1,0,110813,75.25,D37,Q,5,"Portland, OR",57677.26806,31592.46499
+1,"White, Mrs. John Stuart (Ella Holmes)",female,no,0,0,PC 17760,135.6333,C32,Q,8,"New York, NY / Briarcliff Manor NY",72642.77801,24348.93074
+1,"Wick, Miss. Mary Natalie",female,no,0,2,36928,164.8667,C7,Q,8,"Youngstown, OH",42568.1245,39089.64073
+1,"Widener, Mrs. George Dunton (Eleanor Elkins)",female,no,1,1,113503,211.5,C80,Q,4,"Elkins Park, PA",42965.64048,18568.41732
+1,"Young, Miss. Marie Grice",female,no,0,0,PC 17760,135.6333,C32,C,8,"New York, NY / Washington, DC",25605.08717,282.6031679
+2,"Ball, Mrs. (Ada E Hall)",female,no,0,0,28551,13,D,Q,10,"Bristol, Avon / Jacksonville, FL",10934.38037,16065.02296
+2,"Becker, Master. Richard F",male,no,2,1,230136,39,F4,S,11,"Guntur, India / Benton Harbour, MI",65339.52227,5998.453913
+2,"Becker, Miss. Marion Louise",female,no,2,1,230136,39,F4,S,11,"Guntur, India / Benton Harbour, MI",57966.02358,4680.440185
+2,"Becker, Miss. Ruth Elizabeth",female,no,2,1,230136,39,F4,S,13,"Guntur, India / Benton Harbour, MI",44211.74033,7320.248132
+2,"Becker, Mrs. Allen Oliver (Nellie E Baumgardner)",female,no,0,3,230136,39,F4,S,11,"Guntur, India / Benton Harbour, MI",67286.47334,13237.78964
+2,"Beesley, Mr. Lawrence",male,yes,0,0,248698,13,D56,S,13,London,35538.35397,13783.561
+2,"Brown, Miss. Amelia 'Mildred'",female,no,0,0,248733,13,F33,S,11,"London / Montreal, PQ",52441.6985,21847.54388
+2,"Cook, Mrs. (Selena Rogers)",female,no,0,0,W./C. 14266,10.5,F33,S,14,Pennsylvania,39516.13761,13873.03924
+2,"Jerwan, Mrs. Amin S (Marie Marthe Thuillard)",female,yes,0,0,SC/AH Basle 541,13.7917,D,C,11,"New York, NY",49374.7579,31890.24374
+2,"Lemore, Mrs. (Amelia Milley)",female,,0,0,C.A. 34260,10.5,F33,S,14,"Chicago, IL",69940.61962,22038.18467
+2,"Navratil, Master. Edmond Roger",male,no,1,1,230080,26,F2,S,D,"Nice, France",76441.67585,11299.69614
+2,"Navratil, Master. Michel M",male,yes,1,1,230080,26,F2,S,D,"Nice, France",63192.2888,11373.31678
+2,"Nourney, Mr. Alfred ('Baron von Drachstedt')",male,yes,0,0,SC/PARIS 2166,13.8625,D38,C,7,"Cologne, Germany",10039.00122,25875.62792
+2,"Nye, Mrs. (Elizabeth Ramell)",female,,0,0,C.A. 29395,10.5,F33,S,11,"Folkstone, Kent / New York, NY",12605.32355,29781.94782
+2,"Troutt, Miss. Edwina Celia 'Winnie'",female,,0,0,34218,10.5,E101,S,16,"Bath, England / Massachusetts",21949.20704,14608.49926
+2,"Webber, Miss. Susan",female,,0,0,27267,13,E101,S,12,"England / Hartford, CT",41274.28797,29208.83928
+3,"Abelseth, Mr. Olaus Jorgensen",,,0,0,348122,7.65,F G63,S,A,"Perkins County, SD",75889.33679,29455.01279
